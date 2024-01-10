@@ -1,0 +1,14 @@
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\bin\Debug\net7.0\Buoi1.exe
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\bin\Debug\net7.0\Buoi1.deps.json
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\bin\Debug\net7.0\Buoi1.runtimeconfig.json
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\bin\Debug\net7.0\Buoi1.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\bin\Debug\net7.0\Buoi1.pdb
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.AssemblyInfoInputs.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.AssemblyInfo.cs
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.csproj.CoreCompileInputs.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\refint\Buoi1.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.pdb
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\Buoi1.genruntimeconfig.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\Buoi1\obj\Debug\net7.0\ref\Buoi1.dll

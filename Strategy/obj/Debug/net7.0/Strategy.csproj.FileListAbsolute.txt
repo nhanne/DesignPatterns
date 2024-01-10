@@ -1,0 +1,14 @@
+C:\Users\nhanc\Desktop\Design patterns\Strategy\bin\Debug\net7.0\Strategy.exe
+C:\Users\nhanc\Desktop\Design patterns\Strategy\bin\Debug\net7.0\Strategy.deps.json
+C:\Users\nhanc\Desktop\Design patterns\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+C:\Users\nhanc\Desktop\Design patterns\Strategy\bin\Debug\net7.0\Strategy.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\bin\Debug\net7.0\Strategy.pdb
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.pdb
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+C:\Users\nhanc\Desktop\Design patterns\Strategy\obj\Debug\net7.0\ref\Strategy.dll
